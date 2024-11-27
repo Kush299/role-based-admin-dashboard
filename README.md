@@ -2,7 +2,7 @@
 
 # Assignment for VRV Security
 
-# Output (you can directly see the project by using the given link)  https://role-based-admin-dashboard-nnmx.vercel.app/login
+# Output (you can directly see the project by using the given link)  role-based-admin-dashboard-nnmx.vercel.app
 
 ## Overview
 
