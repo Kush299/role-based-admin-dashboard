@@ -2,8 +2,6 @@
 
 # Assignment for VRV Security
 
-# Output (you can directly see the project by using the given link)  [role-based-admin-dashboard-nnmx.vercel.app](https://role-based-admin-dashboard-nnmx.vercel.app/login)
-
 ## Overview
 
 This project is a **Role-Based Access Control (RBAC)** Admin Panel built using **React**, **Vite**, and **Material-UI**. It allows administrators to manage users, roles, and permissions within an application. The panel provides an intuitive UI for adding, editing, and deleting users and roles, assigning permissions, and viewing audit logs.
